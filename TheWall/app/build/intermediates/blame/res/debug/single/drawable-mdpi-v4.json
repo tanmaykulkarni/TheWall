@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_drawer.png",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable-mdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_home.png",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable-mdpi\\ic_home.png"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_action_overflow.png",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable-mdpi\\ic_action_overflow.png"
+    }
+]

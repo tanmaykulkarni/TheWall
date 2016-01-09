@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_rounded_corner.xml",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\btn_rounded_corner.xml"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_loader.png",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\ico_loader.png"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_pressed.xml",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\list_item_bg_pressed.xml"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_download.png",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\ico_download.png"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_item_bg_normal.xml",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\list_item_bg_normal.xml"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\counter_bg.xml",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\counter_bg.xml"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash_screen.jpg",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\splash_screen.jpg"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_rounded_corner.xml",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\edittext_rounded_corner.xml"
+    },
+    {
+        "merged": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ico_apply.png",
+        "source": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\drawable\\ico_apply.png"
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "E:\\Tanmay\\material-camera-master\\The Wall\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 19,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 169
+                    }
+                }
+            }
+        ]
+    }
+]
